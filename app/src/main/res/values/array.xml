@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Emails">
+        <item>example1@yandex.ru</item>
+        <item>example2@yandex.ru</item>
+        <item>example3@yandex.ru</item>
+        <item>example4@yandex.ru</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="Passwords">
+        <item>password1</item>
+        <item>password2</item>
+        <item>password3</item>
+        <item>password4</item>
+        <item>1</item>
+    </string-array>
+</resources>
